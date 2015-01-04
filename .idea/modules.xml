@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/LinkAcademyProject.iml" filepath="$PROJECT_DIR$/LinkAcademyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/colectionsLesson/colectionsLesson.iml" filepath="$PROJECT_DIR$/colectionsLesson/colectionsLesson.iml" />
       <module fileurl="file://$PROJECT_DIR$/enumLesson/enumLesson.iml" filepath="$PROJECT_DIR$/enumLesson/enumLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ioStreamsLesson/ioStreamsLesson.iml" filepath="$PROJECT_DIR$/ioStreamsLesson/ioStreamsLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input/outputStreamsLesson/input/outputStreamsLesson.iml" filepath="$PROJECT_DIR$/input/outputStreamsLesson/input/outputStreamsLesson.iml" />
     </modules>
   </component>
 </project>
